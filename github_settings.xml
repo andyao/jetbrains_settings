@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="andy.yao" />
+    <option name="HOST" value="git.us.gree-office.net" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
+

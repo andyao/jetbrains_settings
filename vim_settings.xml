@@ -1,0 +1,488 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/fragment_home_layout.xml" timestamp="1452819464603">
+        <mark key="'" line="17" column="52" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+        <mark key="[" line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.0.2/f881ddd57ddc49cc185f87155970abe5b24c05ff/timber-3.0.2-sources.jar!/timber/log/Timber.java" timestamp="1452884282498">
+        <mark key="'" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/.zshrc" timestamp="1452898089520">
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/domain/delegates/CreateCartApiServiceDelegate.java" timestamp="1452886351540">
+        <mark key="'" line="22" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/adapter/CmsWidgetViewAdapter.java" timestamp="1452712872018">
+        <mark key="'" line="136" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/BeautyApplication.java" timestamp="1452646424304">
+        <mark key="'" line="119" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/data/ProductDetailsInterpreter.java" timestamp="1452749698425">
+        <mark key="'" line="41" column="63" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/presentation/presenter/ProductDetailsFragmentPresenterImpl.java" timestamp="1452791966055">
+        <mark key="'" line="127" column="9" />
+        <mark key="]" line="127" column="100" />
+        <mark key="^" line="127" column="0" />
+        <mark key="." line="127" column="100" />
+        <mark key="[" line="127" column="100" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/cms/BeautyCmsDictionary.java" timestamp="1452555474521">
+        <mark key="'" line="150" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/share/presentation/presenter/ShareAndEarnFragmentPresenterImpl.java" timestamp="1452706989975">
+        <mark key="'" line="50" column="138" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/model/CmsSlide.java" timestamp="1452708916090">
+        <mark key="'" line="14" column="38" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/presentation/view/ProductDetailsFragment.java" timestamp="1452709647580">
+        <mark key="'" line="208" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/row_cms_collection_item_layout.xml" timestamp="1452805789472">
+        <mark key="'" line="1" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/domain/ProductDetailsDelegateImpl.java" timestamp="1452749914888">
+        <mark key="'" line="43" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/coupon/data/CouponApiService.java" timestamp="1452895725867">
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/core/domain/GetWithParamsApiServiceDelegate.java" timestamp="1452792204810">
+        <mark key="'" line="76" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/coupon/CouponUrls.java" timestamp="1452893869933">
+        <mark key="'" line="25" column="105" />
+        <mark key="[" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.15/568d1b68c61aa1d2020f6273318634ab8e35b0/rxjava-1.0.15-sources.jar!/rx/schedulers/Schedulers.java" timestamp="1452792236857">
+        <mark key="'" line="31" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/internal/java/com/honest/foundation/cart/data/services/MockCartApiService.java" timestamp="1452896826126">
+        <mark key="'" line="84" column="53" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/ProductModule.java" timestamp="1452749756744">
+        <mark key="'" line="66" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/address/domain/delegates/AddAddressApiServiceDelegate.java" timestamp="1452900514759">
+        <mark key="'" line="27" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/share/domain/ShareAndEarnDelegateImpl.java" timestamp="1452664661936">
+        <mark key="'" line="25" column="57" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/data/interpreter/cms/DefaultCmsResponseInterpreter.java" timestamp="1452749700753">
+        <mark key="'" line="25" column="62" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/share/presentation/presenter/ShareAndEarnFragmentPresenter.java" timestamp="1452664326682">
+        <mark key="'" line="13" column="61" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/production/java/com/honest/beauty/core/ProductionCoreApiModule.java" timestamp="1452551966008">
+        <mark key="'" line="29" column="65" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/data/ProductDetailsApiService.java" timestamp="1452750054658">
+        <mark key="'" line="40" column="17" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/view/ToolbarFragment.java" timestamp="1452663772693">
+        <mark key="'" line="33" column="47" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/drawer/NavigationDrawerModule.java" timestamp="1452552887192">
+        <mark key="'" line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/load/resource/drawable/GlideDrawable.java" timestamp="1452800677045">
+        <mark key="'" line="9" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/category/presentation/presenter/ProductCategoryHeaderViewBinder.java" timestamp="1452723813328">
+        <mark key="'" line="36" column="68" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/model/MenuItemChildViewHolder.java" timestamp="1452558185669">
+        <mark key="'" line="12" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/drawer/presentation/presenter/NavigationDrawerFragmentPresenter.java" timestamp="1452554176494">
+        <mark key="'" line="20" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/address/data/model/Address.java" timestamp="1452894361159">
+        <mark key="'" line="26" column="25" />
+        <mark key="]" line="26" column="33" />
+        <mark key="[" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/row_account_menu_parent.xml" timestamp="1452555797598">
+        <mark key="'" line="27" column="38" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" timestamp="1452801305738">
+        <mark key="'" line="394" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/drawer/presentation/presenter/NavigationDrawerExpandableAdapter.java" timestamp="1452625801795">
+        <mark key="'" line="86" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/authentification/domain/delegates/AuthenticationApiServiceDelegateImpl.java" timestamp="1452662991290">
+        <mark key="'" line="153" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/drawable/loading_spinner_layer.xml" timestamp="1452807824163">
+        <mark key="'" line="4" column="45" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/adapter/PagerSlideAdapter.java" timestamp="1452725543568">
+        <mark key="'" line="21" column="17" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="19" column="93" />
+        <mark key="." line="60" column="0" />
+        <mark key="[" line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/core/domain/BaseUserApiServiceDelegate.java" timestamp="1452883563341">
+        <mark key="'" line="66" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" timestamp="1452812136933">
+        <mark key="'" line="26" column="36" />
+        <mark key="]" line="26" column="38" />
+        <mark key="^" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="[" line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/presenter/AccountMenuFragmentPresenterImpl.java" timestamp="1452663109716">
+        <mark key="'" line="56" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/drawable/placeholder.xml" timestamp="1452810161345">
+        <mark key="'" line="4" column="41" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+        <mark key="[" line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/values/styles.xml" timestamp="1452555820789">
+        <mark key="'" line="54" column="47" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/core/domain/BaseApiDelegate.java" timestamp="1452792226490">
+        <mark key="'" line="31" column="58" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsRecyclerViewAdapter.java" timestamp="1452723884035">
+        <mark key="'" line="25" column="33" />
+        <mark key="]" line="66" column="109" />
+        <mark key="^" line="66" column="109" />
+        <mark key="." line="66" column="109" />
+        <mark key="[" line="66" column="93" />
+      </file>
+      <file name="$ANDROID_HOME$/extras/android/m2repository/com/android/support/percent/23.1.1/percent-23.1.1-sources.jar!/android/support/percent/PercentRelativeLayout.java" timestamp="1452801736185">
+        <mark key="'" line="93" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/data/models/CreateCart.java" timestamp="1452894213450">
+        <mark key="'" line="25" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/view/carousel/CarouselViewPager.java" timestamp="1452721213137">
+        <mark key="'" line="42" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/values/dimens.xml" timestamp="1452819448893">
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" timestamp="1452896307607">
+        <mark key="'" line="247" column="19" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/core/presentation/view/custom/ScrimInsetsFrameLayout.java" timestamp="1452818241805">
+        <mark key="]" line="20" column="57" />
+        <mark key="^" line="20" column="57" />
+        <mark key="." line="20" column="57" />
+        <mark key="[" line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/view/CmsCollectionItemsLayout.java" timestamp="1452805807949">
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="[" line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/presentation/presenter/ProductDetailsFragmentPresenter.java" timestamp="1452709650220">
+        <mark key="'" line="21" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/presenter/AccountMenuAdapter.java" timestamp="1452555785590">
+        <mark key="'" line="27" column="76" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/androidTestInternal/java/com/honest/beauty/account/AccountTest.java" timestamp="1452644966112">
+        <mark key="'" line="24" column="53" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/address/presentation/presenter/AddAddressFragmentPresenterImpl.java" timestamp="1452896367791">
+        <mark key="'" line="108" column="67" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/androidTestInternal/java/com/honest/beauty/login/LoginTest.java" timestamp="1452645622449">
+        <mark key="'" line="19" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/data/service/CartApiService.java" timestamp="1452893458607">
+        <mark key="'" line="32" column="28" />
+      </file>
+      <file name="$ANDROID_HOME$/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1-sources.jar!/android/support/v4/view/PagerAdapter.java" timestamp="1452724918486">
+        <mark key="'" line="275" column="22" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.15/568d1b68c61aa1d2020f6273318634ab8e35b0/rxjava-1.0.15-sources.jar!/rx/subjects/Subject.java" timestamp="1452662930594">
+        <mark key="'" line="25" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/internal/java/com/honest/beauty/category/MockProductCategoryApiService.java" timestamp="1452707975852">
+        <mark key="'" line="49" column="37" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/HonestFoundation.java" timestamp="1452896372430">
+        <mark key="'" line="176" column="77" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/category/presentation/presenter/ProductCategoryTabFragmentAdapter.java" timestamp="1452726721598">
+        <mark key="'" line="19" column="64" />
+        <mark key="]" line="55" column="58" />
+        <mark key="^" line="55" column="58" />
+        <mark key="." line="55" column="58" />
+        <mark key="[" line="55" column="55" />
+      </file>
+      <file name="$ANDROID_HOME$/sources/android-23/android/view/View.java" timestamp="1452814326782">
+        <mark key="'" line="5031" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/data/ProductDetail.java" timestamp="1452711115977">
+        <mark key="'" line="293" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/coupon/domain/Coupon.java" timestamp="1452894457652">
+        <mark key="'" line="8" column="5" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/product/data/ImageFileProvider.java" timestamp="1452749624718">
+        <mark key="'" line="7" column="72" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/core/data/events/EventBus.java" timestamp="1452662921730">
+        <mark key="'" line="38" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/fragment_drawer_layout.xml" timestamp="1452555342101">
+        <mark key="'" line="52" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/presenter/HomeFragmentPresenterImpl.java" timestamp="1452819458616">
+        <mark key="'" line="127" column="48" />
+        <mark key="]" line="159" column="113" />
+        <mark key="^" line="159" column="113" />
+        <mark key="." line="159" column="113" />
+        <mark key="[" line="159" column="95" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/CartUrls.java" timestamp="1452893700340">
+        <mark key="]" line="48" column="44" />
+        <mark key="." line="43" column="7" />
+        <mark key="[" line="43" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1452921638532">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/address/data/service/AddressApiService.java" timestamp="1452894122451">
+        <mark key="'" line="60" column="61" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BeautyNavigator.java" timestamp="1452644589831">
+        <mark key="'" line="47" column="45" />
+      </file>
+      <file name="$ANDROID_HOME$/sources/android-23/java/lang/ref/WeakReference.java" timestamp="1452624515994">
+        <mark key="'" line="85" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCarouselBinder.java" timestamp="1452725524969">
+        <mark key="'" line="38" column="25" />
+        <mark key="]" line="39" column="45" />
+        <mark key="^" line="39" column="45" />
+        <mark key="." line="39" column="45" />
+        <mark key="[" line="39" column="46" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/drawer/presentation/presenter/ItemSelectedFragmentPresenterImpl.java" timestamp="1452663625398">
+        <mark key="'" line="88" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/view/AccountMenuFragment.java" timestamp="1452555651395">
+        <mark key="'" line="55" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/share/presentation/view/ShareAndEarnFragment.java" timestamp="1452663770101">
+        <mark key="'" line="32" column="49" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/presenter/AccountInfoFragmentPresenterImpl.java" timestamp="1452896025501">
+        <mark key="'" line="267" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/model/CmsCarousel.java" timestamp="1452726102952">
+        <mark key="'" line="21" column="21" />
+        <mark key="]" line="171" column="31" />
+        <mark key="^" line="171" column="31" />
+        <mark key="." line="171" column="31" />
+        <mark key="[" line="171" column="27" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/row_account_menu_child.xml" timestamp="1452555778462">
+        <mark key="'" line="20" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/adapter/StateReactiveObserver.java" timestamp="1452663657992">
+        <mark key="'" line="201" column="16" />
+      </file>
+      <file name="$USER_HOME$/.zshenv" timestamp="1452898181769">
+        <mark key="'" line="5" column="0" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="67" />
+        <mark key="." line="15" column="12" />
+        <mark key="[" line="15" column="12" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="163" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" />
+      <jump line="77" column="99" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/row_cms_collection_item_layout.xml" />
+      <jump line="10" column="50" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/cms_collection_items_layout.xml" />
+      <jump line="15" column="13" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/view/CmsSlideView.java" />
+      <jump line="15" column="50" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/MaxSizeTransformation.java" />
+      <jump line="28" column="22" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="162" column="62" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" />
+      <jump line="17" column="37" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="20" column="46" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/GlideLoggingListener.java" />
+      <jump line="29" column="23" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="365" column="45" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" />
+      <jump line="24" column="86" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/GlideLoggingListener.java" />
+      <jump line="15" column="65" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="9" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/load/resource/drawable/GlideDrawable.java" />
+      <jump line="16" column="29" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="317" column="45" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" />
+      <jump line="55" column="39" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="59" column="22" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="44" column="21" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="394" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/c84c6f18844d9ae76308619008d40277de5e77d3/glide-3.6.1-sources.jar!/com/bumptech/glide/DrawableRequestBuilder.java" />
+      <jump line="33" column="25" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="80" column="103" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="118" column="43" filename="$ANDROID_HOME$/extras/android/m2repository/com/android/support/percent/23.1.1/percent-23.1.1-sources.jar!/android/support/percent/PercentRelativeLayout.java" />
+      <jump line="93" column="20" filename="$ANDROID_HOME$/extras/android/m2repository/com/android/support/percent/23.1.1/percent-23.1.1-sources.jar!/android/support/percent/PercentRelativeLayout.java" />
+      <jump line="61" column="22" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="13" column="58" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/cms_collection_items_layout.xml" />
+      <jump line="14" column="59" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/cms_collection_items_layout.xml" />
+      <jump line="9" column="60" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/row_cms_collection_item_layout.xml" />
+      <jump line="128" column="63" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/view/CmsCollectionItemsLayout.java" />
+      <jump line="20" column="38" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/cms_collection_items_layout.xml" />
+      <jump line="76" column="13" filename="$ANDROID_HOME$/extras/android/m2repository/com/android/support/percent/23.1.1/percent-23.1.1-sources.jar!/android/support/percent/PercentFrameLayout.java" />
+      <jump line="54" column="66" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="1" column="60" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/layout/row_cms_collection_item_layout.xml" />
+      <jump line="41" column="64" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="53" column="63" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="119" column="24" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/view/CmsCollectionItemsLayout.java" />
+      <jump line="56" column="18" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cms/presentation/presenter/binder/CmsCollectionItemsBinder.java" />
+      <jump line="36" column="47" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/MaxSizeTransformation.java" />
+      <jump line="1100" column="21" filename="$ANDROID_HOME$/sources/android-23/android/graphics/Bitmap.java" />
+      <jump line="4" column="45" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/drawable/loading_spinner_layer.xml" />
+      <jump line="25" column="47" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="4" column="41" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/res/drawable/placeholder.xml" />
+      <jump line="27" column="23" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="26" column="36" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/util/image/ImageLoader.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="39" column="42" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="109" column="39" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="110" column="33" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="15" column="36" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/fragment_home_layout.xml" />
+      <jump line="5031" column="52" filename="$ANDROID_HOME$/sources/android-23/android/view/View.java" />
+      <jump line="88" column="10" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="145" column="10" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="146" column="10" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="141" column="29" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="29" column="36" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/fragment_home_layout.xml" />
+      <jump line="128" column="36" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="36" column="41" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="33" column="22" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/view/ToolbarFragment.java" />
+      <jump line="33" column="34" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/fragment_home_layout.xml" />
+      <jump line="144" column="36" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="1" column="61" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/fragment_home_layout.xml" />
+      <jump line="164" column="31" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="168" column="45" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragment.java" />
+      <jump line="73" column="29" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/presenter/HomeFragmentPresenterImpl.java" />
+      <jump line="28" column="9" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/view/HomeFragmentView.java" />
+      <jump line="168" column="17" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/presenter/HomeFragmentPresenterImpl.java" />
+      <jump line="128" column="30" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/presenter/HomeFragmentPresenterImpl.java" />
+      <jump line="130" column="55" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/presenter/HomeFragmentPresenterImpl.java" />
+      <jump line="33" column="16" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" />
+      <jump line="129" column="48" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/home/presentation/presenter/HomeFragmentPresenterImpl.java" />
+      <jump line="17" column="52" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/res/layout/fragment_home_layout.xml" />
+      <jump line="66" column="10" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/core/domain/BaseUserApiServiceDelegate.java" />
+      <jump line="12" column="11" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jakewharton.timber/timber/3.0.2/f881ddd57ddc49cc185f87155970abe5b24c05ff/timber-3.0.2-sources.jar!/timber/log/Timber.java" />
+      <jump line="22" column="18" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/domain/delegates/CreateCartApiServiceDelegate.java" />
+      <jump line="32" column="28" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/data/service/CartApiService.java" />
+      <jump line="36" column="31" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/CartUrls.java" />
+      <jump line="25" column="105" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/coupon/CouponUrls.java" />
+      <jump line="31" column="31" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/CartUrls.java" />
+      <jump line="60" column="61" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/address/data/service/AddressApiService.java" />
+      <jump line="25" column="6" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/cart/data/models/CreateCart.java" />
+      <jump line="26" column="25" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/address/data/model/Address.java" />
+      <jump line="8" column="5" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/coupon/domain/Coupon.java" />
+      <jump line="218" column="21" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/presenter/AccountInfoFragmentPresenterImpl.java" />
+      <jump line="437" column="15" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/presenter/AccountInfoFragmentPresenterImpl.java" />
+      <jump line="267" column="14" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/account/presentation/presenter/AccountInfoFragmentPresenterImpl.java" />
+      <jump line="30" column="17" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/core/domain/ApiDelegate.java" />
+      <jump line="165" column="11" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" />
+      <jump line="246" column="17" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" />
+      <jump line="182" column="20" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" />
+      <jump line="58" column="16" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.15/568d1b68c61aa1d2020f6273318634ab8e35b0/rxjava-1.0.15-sources.jar!/rx/subscriptions/CompositeSubscription.java" />
+      <jump line="247" column="19" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" />
+      <jump line="58" column="34" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" />
+      <jump line="164" column="23" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/core/presentation/presenter/BasePresenterImpl.java" />
+      <jump line="108" column="67" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/honestbeauty/src/main/java/com/honest/beauty/address/presentation/presenter/AddAddressFragmentPresenterImpl.java" />
+      <jump line="176" column="77" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/HonestFoundation.java" />
+      <jump line="27" column="11" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/main/java/com/honest/foundation/address/domain/delegates/AddAddressApiServiceDelegate.java" />
+      <jump line="84" column="53" filename="$USER_HOME$/Workspace/beauty-android/honest-beauty/foundation/src/internal/java/com/honest/foundation/cart/data/services/MockCartApiService.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/.zshenv" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>:</text>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="3" type="4">
+        <text>T</text>
+      </register>
+      <register name="2" type="4">
+        <text>H</text>
+      </register>
+      <register name="1" type="4">
+        <text>:</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">QEdlbmVyYXRlZCgib3JnLmpzb25zY2hlbWEycG9qbyIpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>$</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="5" type="4">
+        <text>P</text>
+      </register>
+      <register name="4" type="4">
+        <text>A</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZXhwb3J0IFBBVEg9In4vLnJiZW52L3NoaW1zOiRQQVRIIgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
